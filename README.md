@@ -1,0 +1,3 @@
+# nfl_stats
+
+This will be a database of NFL stats pulled from various sources. More to come...
